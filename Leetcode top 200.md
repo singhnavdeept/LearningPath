@@ -52,16 +52,19 @@
 - [ ] [71. Simplify Path](https://leetcode.com/problems/simplify-path/) #Stack #String
 
 ## Binary Search
-- [ ] [704. Binary Search](https://leetcode.com/problems/binary-search/) #BinarySearch #Array
+- [x] [704. Binary Search](https://leetcode.com/problems/binary-search/) #BinarySearch #Array
 - [ ] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) #BinarySearch #Matrix
 - [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) #BinarySearch #SearchOnAnswer #Array
 - [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) #BinarySearch #Array
-- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) #BinarySearch #Array
+- [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) #BinarySearch #Array [[33. Search in Rotated Sorted Array]]
 - [ ] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) #BinarySearch #Hard #Array #DivideAndConquer
 - [x] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) #BinarySearch #Array
 - [ ] [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) #BinarySearch #TwoPointers #Heap #Array
 - [ ] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) #BinarySearch #Heap #Matrix
 - [ ] [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) #BinarySearch #HashMap #Design
+- [ ] [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) #BinarySearch #interactive #Array 
+
+
 
 ## Linked List
 - [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) #LinkedList
