@@ -1,0 +1,2 @@
+- [x] [[1480 Running sum of 1D array]]1480 Running Sum of 1d Array
+- [x] 724 Find Pivot Index [[724 Find the pivot index]]

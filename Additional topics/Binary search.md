@@ -1,0 +1,17 @@
+# Binary Search Interview Questions
+by Kunal Kushwaha 
+
+When do we apply binary search ?
+- [ ] When we have something to do with sorted array
+- [ ] Something to do with a sequence of number 
+
+Problem 1 Ceiling of a number 
+=
+arr =[2,3,5,9,14,16,18] target number =15
+
+find a ceiling of a number , so it is to find the smallest number greater or equal to target number 
+all the logic and code of binary search then ,start = ans
+
+
+Problem 2 Floor of a number
+in same array by intitution 
